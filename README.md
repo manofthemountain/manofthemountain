@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and REST
 
 
 <!--
